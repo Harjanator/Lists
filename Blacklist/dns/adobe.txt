@@ -1,0 +1,6 @@
+0.0.0.0 lm-prd-da1.licenses.adobe.com
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 practivate-da1.adobe.com
+0.0.0.0 uds.licenses.adobe.com
+0.0.0.0 license.adobe.com
+0.0.0.0 helpexamples.com
