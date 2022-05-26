@@ -1,0 +1,7 @@
+0.0.0.0 lansweeper.azure-api.net
+0.0.0.0 update.lansweeper.com
+#0.0.0.0 www.lansweeper.com
+0.0.0.0 lsservicecommunicatorprd.azurewebsites.net
+0.0.0.0 authentication.lansweeper.com
+0.0.0.0 lslicenseapp.azurewebsites.net
+0.0.0.0 hosts.lslicenseapp.azurewebsites.net
