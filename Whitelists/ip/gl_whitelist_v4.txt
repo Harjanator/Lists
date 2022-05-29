@@ -7,3 +7,5 @@
 51.15.8.218
 #zevenet
 140.110.240.80
+#samsung update server
+112.106.186.155
